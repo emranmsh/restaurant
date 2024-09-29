@@ -1,7 +1,7 @@
 import "./style.css";
-import menuDisplay from "../menu";
-import homeDisplay from "../home";
-import contactDisplay from "../contact";
+import menuDisplay from "./menu";
+import homeDisplay from "./home";
+import contactDisplay from "./contact";
 
 const homeNav= document.getElementById("home");
 const menuNav= document.getElementById("menu");
